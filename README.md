@@ -3,6 +3,13 @@
 2. Custom Modal - https://www.youtube.com/watch?v=i8YLBufmWV4&t=95s
 
 
+## YT
+nisha singla
+do some coding
+hands on js
+namaste react 
+coding addict
+codehelp
 
 
 
@@ -24,6 +31,7 @@ React Todo App, With Drag And Drop - https://www.youtube.com/watch?v=t1HQUPrfdOY
 https://www.youtube.com/watch?v=Q1PYQPK9TaM
 
 image gallery - https://www.youtube.com/watch?v=vUe91uOx7R0
+pokedox - https://www.youtube.com/watch?v=XehSJF85F38&list=PL-Kz5P-mYdMgBwaZVajXeWbd_h7REbkut&index=1
 
 
 Infinite Scrolling With React- https://www.youtube.com/watch?v=NZKUirTtxcg
@@ -33,4 +41,7 @@ Notes App - https://www.youtube.com/watch?v=_3ooazcK4TI&list=PLfVxbRIcicREVXpiw_
 kanban board - https://www.youtube.com/watch?v=zOOwVT1HC7g https://www.youtube.com/watch?v=VV8ZKHnkuLA https://www.youtube.com/watch?v=1Ndv8qO1-mY&t=4s
 
 to do - https://www.youtube.com/playlist?list=PLC4dBtMbzLJ93hEMyLELAi9gEbPXB4GtT
+
+
+redux toolkit - https://www.youtube.com/watch?v=A_vRvDAZuOo
 
